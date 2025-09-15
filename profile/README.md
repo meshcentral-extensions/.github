@@ -1,5 +1,3 @@
----
-
 # MeshCentral Extensions
 
 Welcome to **MeshCentral Extensions** – a community-driven organization dedicated to maintaining and promoting forks, plugins, and tools that extend the power of [MeshCentral](https://meshcentral.com/).<br>
