@@ -1,21 +1,21 @@
-# MeshCentral Extensions
+# MeshCentral Community
 
-Welcome to **MeshCentral Extensions** – a community-driven organization dedicated to maintaining and promoting forks, plugins, and tools that extend the power of [MeshCentral](https://meshcentral.com/).<br>
+Welcome to **MeshCentral Community** – a community-driven organization dedicated to maintaining and promoting forks, plugins, and tools that extend the power of [MeshCentral](https://meshcentral.com/).<br>
 This space helps preserve important contributions and makes it easier for IT admins and developers to discover and collaborate on community-led projects.
 
 ## 📦 Current Repositories
 
 | Repository                                                                                             | Description                                                                  | Language   | License    |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------- | ---------- |
-| [.github](https://github.com/meshcentral-extensions/.github)                                           | Organization profile repository                                              | Markdown   | –          |
-| [MeshCentral](https://github.com/meshcentral-extensions/MeshCentral)                                   | A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet. | JavaScript | Apache-2.0 |
-| [meshbook](https://github.com/meshcentral-extensions/meshbook)                                         | Utility for programmatically sending commands with YAML using `pylibmeshctrl`. | Python     | GPL-3.0    |
-| [mcc](https://github.com/meshcentral-extensions/mcc)                                                   | MeshCentral CLI client.                                                      | Go         | MIT        |
-| [pylibmeshctrl](https://github.com/meshcentral-extensions/pylibmeshctrl)                               | Python implementation of `libmeshctrl`.                                      | Python     | MIT        |
-| [MeshCentral-RoutePlus](https://github.com/meshcentral-extensions/MeshCentral-RoutePlus)               | Port routing plugin for MeshCentral.                                         | JavaScript | Apache-2.0 |
-| [MeshCentral-ScriptTask](https://github.com/meshcentral-extensions/MeshCentral-ScriptTask)             | Scripting plugin for MeshCentral.                                            | JavaScript | Apache-2.0 |
-| [MeshCentral-FileDistribution](https://github.com/meshcentral-extensions/MeshCentral-FileDistribution) | File distribution plugin for MeshCentral.                                    | JavaScript | Apache-2.0 |
-| [MeshCentral-EventLog](https://github.com/meshcentral-extensions/MeshCentral-EventLog)                 | Event log plugin for MeshCentral.                                            | JavaScript | Apache-2.0 |
+| [.github](https://github.com/meshcentral-community/.github)                                           | Organization profile repository                                              | Markdown   | –          |
+| [MeshCentral](https://github.com/meshcentral-community/MeshCentral)                                   | A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet. | JavaScript | Apache-2.0 |
+| [meshbook](https://github.com/meshcentral-community/meshbook)                                         | Utility for programmatically sending commands with YAML using `pylibmeshctrl`. | Python     | GPL-3.0    |
+| [mcc](https://github.com/meshcentral-community/mcc)                                                   | MeshCentral CLI client.                                                      | Go         | MIT        |
+| [pylibmeshctrl](https://github.com/meshcentral-community/pylibmeshctrl)                               | Python implementation of `libmeshctrl`.                                      | Python     | MIT        |
+| [MeshCentral-RoutePlus](https://github.com/meshcentral-community/MeshCentral-RoutePlus)               | Port routing plugin for MeshCentral.                                         | JavaScript | Apache-2.0 |
+| [MeshCentral-ScriptTask](https://github.com/meshcentral-community/MeshCentral-ScriptTask)             | Scripting plugin for MeshCentral.                                            | JavaScript | Apache-2.0 |
+| [MeshCentral-FileDistribution](https://github.com/meshcentral-community/MeshCentral-FileDistribution) | File distribution plugin for MeshCentral.                                    | JavaScript | Apache-2.0 |
+| [MeshCentral-EventLog](https://github.com/meshcentral-community/MeshCentral-EventLog)                 | Event log plugin for MeshCentral.                                            | JavaScript | Apache-2.0 |
 
 ---
 
@@ -29,7 +29,7 @@ This space helps preserve important contributions and makes it easier for IT adm
 
 ## 🤝 How to Contribute
 
-We welcome new extensions, bug fixes, and improvements:
+We welcome new community projects, bug fixes, and improvements:
 
 1. **Fork** the repository you want to improve, even better - fork the original repo!
 2. **Create a feature branch** (`git checkout -b feature-name`).
